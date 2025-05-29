@@ -33,7 +33,7 @@ public class AttemptManager {
      * Retorna o número atual de tentativas restantes.
      * @return tentativas restantes.
      */
-    public int getTentativas() {
+    public int getTry() {
         return this.tentativas;
     }
 }
